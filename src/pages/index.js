@@ -13,7 +13,6 @@ const HomePage = () => {
             <p>
                 I am a Software Developer Knowledable in various stacks and technologies
             </p>
-            <p>Reach out. <Link to="/contact">Contact me.</Link></p>
         </Layout>
     );
 }
